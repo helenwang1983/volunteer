@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34003" started-at="2022-02-18T19:50:57 CST" finished-at="2022-02-18T19:51:31 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34003" started-at="2022-02-18T19:50:57 CST" finished-at="2022-02-18T19:51:31 CST">
+      <class name="com.fundpage.test.testcase.LoginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.fundpage.test.testcase.LoginTest@23faf8f2]" name="beforeMethod" is-config="true" duration-ms="14844" started-at="2022-02-18T19:50:57 CST" finished-at="2022-02-18T19:51:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.fundpage.test.testcase.LoginTest@23faf8f2]" name="testLogin" duration-ms="18064" started-at="2022-02-18T19:51:12 CST" finished-at="2022-02-18T19:51:30 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.fundpage.test.testcase.LoginTest@23faf8f2]" name="afterMethod" is-config="true" duration-ms="1031" started-at="2022-02-18T19:51:30 CST" finished-at="2022-02-18T19:51:31 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.fundpage.test.testcase.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
